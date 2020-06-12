@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ErH3(CO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54700000
+_cell_length_b   6.63230000
+_cell_length_c   6.63230000
+_cell_angle_alpha   115.20500000
+_cell_angle_beta   106.37100000
+_cell_angle_gamma   73.62930000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErH3(CO2)3
+_chemical_formula_sum   'Er1 H3 C3 O6'
+_cell_volume   245.62035755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_charge
+  Er  Er1  1  0.000000  0.000000  0.000000  1.0  1.4982
+  H  H2  1  0.116000  0.843000  0.461000  1.0  0.0224
+  H  H3  1  0.884000  0.461000  0.843000  1.0  0.0216
+  H  H4  1  0.500000  0.070000  0.070000  1.0  0.0448
+  C  C5  1  0.966600  0.937400  0.468600  1.0  0.6637
+  C  C6  1  0.033400  0.468600  0.937400  1.0  0.6644
+  C  C7  1  0.500000  0.934400  0.934400  1.0  0.6426
+  O  O8  1  0.879200  0.004500  0.313300  1.0  -0.608
+  O  O9  1  0.884900  0.975300  0.631100  1.0  -0.6015
+  O  O10  1  0.665100  0.860700  0.846100  1.0  -0.5691
+  O  O11  1  0.120800  0.313300  0.004500  1.0  -0.6082
+  O  O12  1  0.115100  0.631100  0.975300  1.0  -0.6014
+  O  O13  1  0.334900  0.846100  0.860700  1.0  -0.5696

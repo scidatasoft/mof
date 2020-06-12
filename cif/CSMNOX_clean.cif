@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_CsMnC3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28900000
+_cell_length_b   10.52500000
+_cell_length_c   5.98700000
+_cell_angle_alpha   92.16000000
+_cell_angle_beta   102.74000000
+_cell_angle_gamma   92.84000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMnC3O7
+_chemical_formula_sum   'Cs2 Mn2 C6 O14'
+_cell_volume   446.88760661
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_charge
+  Cs  Cs1  1  0.536400  0.236800  0.251100  1.0  0.9684
+  Cs  Cs2  1  0.463600  0.763200  0.748900  1.0  0.9665
+  Mn  Mn3  1  0.989600  0.231800  0.926200  1.0  1.2489
+  Mn  Mn4  1  0.010400  0.768200  0.073800  1.0  1.2486
+  C  C5  1  0.108000  0.505000  0.016000  1.0  0.5776
+  C  C6  1  0.205000  0.096000  0.643000  1.0  0.6174
+  C  C7  1  0.076000  0.178000  0.469000  1.0  0.6006
+  C  C8  1  0.892000  0.495000  0.984000  1.0  0.5777
+  C  C9  1  0.795000  0.904000  0.357000  1.0  0.619
+  C  C10  1  0.924000  0.822000  0.531000  1.0  0.5992
+  O  O11  1  0.186000  0.402000  0.004000  1.0  -0.5445
+  O  O12  1  0.190000  0.614000  0.046000  1.0  -0.565
+  O  O13  1  0.198000  0.110000  0.846000  1.0  -0.5603
+  O  O14  1  0.305000  0.020000  0.561000  1.0  -0.6221
+  O  O15  1  0.091000  0.174000  0.267000  1.0  -0.622
+  O  O16  1  0.964000  0.242000  0.553000  1.0  -0.559
+  O  O17  1  0.753000  0.091000  0.876000  1.0  -0.5393
+  O  O18  1  0.814000  0.598000  0.996000  1.0  -0.5457
+  O  O19  1  0.810000  0.386000  0.954000  1.0  -0.5642
+  O  O20  1  0.802000  0.890000  0.154000  1.0  -0.5618
+  O  O21  1  0.695000  0.980000  0.439000  1.0  -0.6222
+  O  O22  1  0.909000  0.826000  0.733000  1.0  -0.6211
+  O  O23  1  0.036000  0.758000  0.447000  1.0  -0.5585
+  O  O24  1  0.247000  0.909000  0.124000  1.0  -0.538

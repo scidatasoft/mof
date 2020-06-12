@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_GaPH2CO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04320000
+_cell_length_b   7.24680000
+_cell_length_c   8.34990000
+_cell_angle_alpha   107.48900000
+_cell_angle_beta   92.44400000
+_cell_angle_gamma   109.33800000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaPH2CO3F
+_chemical_formula_sum   'Ga2 P2 H4 C2 O6 F2'
+_cell_volume   271.18903084
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_charge
+  Ga  Ga1  1  0.000000  0.500000  0.000000  1.0  1.6403
+  Ga  Ga2  1  0.500000  0.000000  0.000000  1.0  1.6817
+  P  P3  1  0.512700  0.546370  0.776030  1.0  1.628
+  P  P4  1  0.487300  0.453630  0.223970  1.0  1.627
+  H  H5  1  0.219600  0.479000  0.529800  1.0  0.16
+  H  H6  1  0.343000  0.302600  0.508400  1.0  0.1714
+  H  H7  1  0.780400  0.521000  0.470200  1.0  0.1599
+  H  H8  1  0.657000  0.697400  0.491600  1.0  0.1703
+  C  C9  1  0.391600  0.451700  0.550300  1.0  -0.4594
+  C  C10  1  0.608400  0.548300  0.449700  1.0  -0.4581
+  O  O11  1  0.269000  0.433600  0.855700  1.0  -0.8876
+  O  O12  1  0.593100  0.781400  0.836800  1.0  -0.8614
+  O  O13  1  0.774400  0.490300  0.799500  1.0  -0.8501
+  O  O14  1  0.731000  0.566400  0.144300  1.0  -0.8878
+  O  O15  1  0.406900  0.218600  0.163200  1.0  -0.8599
+  O  O16  1  0.225600  0.509700  0.200500  1.0  -0.8478
+  F  F17  1  0.194700  0.797200  0.058900  1.0  -0.5624
+  F  F18  1  0.805300  0.202800  0.941100  1.0  -0.564
