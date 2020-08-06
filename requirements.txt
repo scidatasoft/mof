@@ -1,0 +1,8 @@
+numpy==1.16.4
+matminer==0.5.7
+monty==2.0.4
+pymatgen==2019.6.5
+scikit_learn==0.21.2
+xgboost==0.80
+joblib
+
