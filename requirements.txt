@@ -1,4 +1,4 @@
-numpy==1.16.4
+numpy==1.22.0
 matminer==0.5.7
 monty==2.0.4
 pymatgen==2019.6.5
